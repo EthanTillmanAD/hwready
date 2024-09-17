@@ -1,7 +1,10 @@
-public class Update{
+package together;
+
+public class Update {
 
 
 	public static void main(String[] args){
-System.out.println("This is my update being done from the feature branch");
+
+		System.out.println("This is my update being done from the feature branch");
 	}
 }
